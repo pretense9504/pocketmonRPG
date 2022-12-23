@@ -1,4 +1,4 @@
-### pocketmongo
+### java만을 사용하여 만든 포켓몬 턴제RPG 게임
 
 <!--
 **pretense9504/pretense9504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
